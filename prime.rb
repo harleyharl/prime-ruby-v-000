@@ -5,5 +5,5 @@ def prime_numbers(number_to_test)
     #   true
     # else
     #   false
-    end
+
 end 
