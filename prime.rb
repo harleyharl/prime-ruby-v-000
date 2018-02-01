@@ -1,6 +1,6 @@
 # Add  code here!
 # def prime?(number_to_test)
-#   # 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 
+#   # 2, 3, 5, 7, 11, 13, 17, 19, 23, 29
 #     if number_to_test > 1 && number_to_test/number_to_test == 1 && number_to_test % 2
 #       true
 #     else
